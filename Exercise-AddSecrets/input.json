@@ -1,0 +1,14 @@
+[
+    {
+        "SecretName":"InsightAdmin15",
+        "SecretValue": "Password10"
+    },
+    {
+        "SecretName":"InsightUser27",
+        "SecretValue": "Password20"
+    },
+    {
+        "SecretName":"InsightOwner39",
+        "SecretValue": "Password30"
+    }
+]

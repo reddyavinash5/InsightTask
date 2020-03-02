@@ -1,0 +1,3 @@
+InsightAdmin = Password10
+InsightUser = Password20
+InsightOwner = Password30
