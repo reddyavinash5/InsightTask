@@ -1,5 +1,5 @@
 FROM microsoft/windowsservercore
-
+LABEL maintainer="avinash.r@****.com"
 ARG keyvault_name
 COPY ./input.json .
 
