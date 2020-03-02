@@ -19,10 +19,10 @@
                     "family": "A",
                     "name": "Standard"
                 },
-                "tenantId": "adbbbd82-76e5-4952-8531-3cc59f3c1fdd",
+                "tenantId": "adbbbd82-****-****-****-3cc59f3c1fdd",
                 "accessPolicies": [
                     {
-                        "tenantId": "adbbbd82-76e5-4952-8531-3cc59f3c1fdd",
+                        "tenantId": "adbbbd82-****-****-****-3cc59f3c1fdd",
                         "objectId": "78bd17f0-e036-4408-b334-5098c888d8ff",
                         "permissions": {
                             "keys": [
